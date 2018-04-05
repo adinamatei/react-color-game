@@ -1,1 +1,3 @@
-# react-color-game
+# Color Game 
+
+Color Guessing Game using React
