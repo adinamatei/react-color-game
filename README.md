@@ -1,3 +1,5 @@
 # Color Game 
 
-Color Guessing Game using React
+Rewrite my Color Guessing Game, using React
+
+[ColorGame](https://adinamatei.github.io/ColorGame/)

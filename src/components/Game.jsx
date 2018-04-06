@@ -27,7 +27,6 @@ class Game extends Component {
     onClickHandler(e, color) {
 
         if(color === this.state.winnerColor) {
-            console.log('WINNER');
             this.setState({
                 over: true,
                 message: 'You Win!'
@@ -65,8 +64,6 @@ class Game extends Component {
 
 
     render() {
-
-        console.log("class name=", this.state.addClass);
         return (
             <div>
                 <Header

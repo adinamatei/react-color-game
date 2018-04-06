@@ -18,7 +18,6 @@ class  Menu extends Component {
                     id='easyBtn'
                     onClick={(e) => {
                         this.props.dificultyHandler(3);
-
                     }}
                 >
                     Easy
@@ -28,7 +27,6 @@ class  Menu extends Component {
                     id='hardBtn'
                     onClick={(e) => {
                         this.props.dificultyHandler(6);
-
                     }}
                 >
                     Hard
